@@ -1,0 +1,17 @@
+#image{
+    min-width: 170px;
+    border-radius: 100%;
+}
+
+.card-body{
+    font-size:20px
+}
+
+.card-title{
+    font-size:37px;
+    margin-bottom:20px
+}
+
+.link{
+    cursor:pointer;
+}
